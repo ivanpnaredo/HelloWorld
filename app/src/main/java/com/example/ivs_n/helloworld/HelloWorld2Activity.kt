@@ -7,6 +7,7 @@ class HelloWorld2Activity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        //HelloWorld
         setContentView(R.layout.activity_hello_world2)
     }
 }
